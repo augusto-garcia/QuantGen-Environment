@@ -20,7 +20,7 @@ bootstrap:
 ## Sources of Environmental Variation
 
 <small>
-Instructor: [A Augusto F Garcia](http://about.me/augusto.garcia)
+Instructor: [A Augusto F Garcia](http://augustogarcia.me)
 / [Statistical Genetics Lab](http://statgen.esalq.usp.br) </small>
 
 <small>Department of Genetics, Luiz de Queiroz College of Agriculture,
@@ -61,6 +61,7 @@ $$z_{ijk} = G_i+I_{ij}+E_j+\epsilon_{ijk}$$
 
 - $I_{ij}$: residual deviation left after assuming that genotype and
   environmental values act in and additive fashion
+- ($k$: replications)
 
 ---
 
